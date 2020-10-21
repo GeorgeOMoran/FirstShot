@@ -1,3 +1,3 @@
 # FirstShot
 Hi, mates.
-This is my first shot at editing FirsShot!
+This is my first shot at editing FirstShot!
